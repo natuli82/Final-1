@@ -10366,9 +10366,9 @@ const cl = [{
     radius: "2,439.7 KM",
     temperature: "430°c",
     images: {
-        planet: "/planet-mercury.svg",
-        internal: "/planet-mercury-internal.svg",
-        geology: "/geology-mercury.png"
+        planet: "assets/planet-mercury.svg",
+        internal: "assets/planet-mercury-internal.svg",
+        geology: "assets/geology-mercury.png"
     }
 }, {
     name: "Venus",
